@@ -20,5 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bhdriyol&icon=2&color=0)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/bhdriyol/bhdriyol/blob/output/github-contribution-grid-snake.gif)
