@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Bahadir Iyol. I am 19 years old and a student. I have been involved in game development for about 4-5 years. I have been developing myself in the fields of software and game design. I closely follow the game world and new technologies.<br><br>💻 I currently aim to develop a mobile application by learning Flutter.<br><br>💡 Until this time, I have continued to learn new things and I still continue to learn.
+👋 Hello, I'm Bahadir Iyol. I am 20 years old and a student. I have been involved in game development for about 4-5 years. I have been developing myself in the fields of software and game design. I closely follow the game world and new technologies.<br><br>💻 I currently aim to develop a mobile application by learning Flutter.<br><br>💡 Until this time, I have continued to learn new things and I still continue to learn.
 
 
 ## 🌐 Socials:
