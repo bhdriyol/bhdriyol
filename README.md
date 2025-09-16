@@ -1,5 +1,5 @@
 # About Me:
-C++, Game Engines, OpenGL
+C++, Graphics & Game Engines, OpenGL
 
 
 ## 🌐 Socials:
